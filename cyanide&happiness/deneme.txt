@@ -1,0 +1,745 @@
+1.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 915x1024, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 1.jpg
+Directory                       : .
+File Size                       : 172 kB
+File Modification Date/Time     : 2024:08:18 21:46:50+03:00
+File Access Date/Time           : 2024:11:02 11:21:02+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 915
+Image Height                    : 1024
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 915x1024
+Megapixels                      : 0.937
+2.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1000x1000, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 2.jpg
+Directory                       : .
+File Size                       : 193 kB
+File Modification Date/Time     : 2024:08:18 21:47:30+03:00
+File Access Date/Time           : 2024:11:02 11:21:02+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1000
+Image Height                    : 1000
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1000x1000
+Megapixels                      : 1.0
+3.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1946x2160, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 3.jpg
+Directory                       : .
+File Size                       : 2.2 MB
+File Modification Date/Time     : 2024:08:18 21:47:36+03:00
+File Access Date/Time           : 2024:11:02 11:21:03+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1946
+Image Height                    : 2160
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1946x2160
+Megapixels                      : 4.2
+4.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1200x676, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 4.jpg
+Directory                       : .
+File Size                       : 176 kB
+File Modification Date/Time     : 2024:08:18 21:47:42+03:00
+File Access Date/Time           : 2024:11:02 11:21:03+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1200
+Image Height                    : 676
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1200x676
+Megapixels                      : 0.811
+5.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1024x696, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 5.jpg
+Directory                       : .
+File Size                       : 287 kB
+File Modification Date/Time     : 2024:08:18 21:48:58+03:00
+File Access Date/Time           : 2024:11:02 11:21:03+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1024
+Image Height                    : 696
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1024x696
+Megapixels                      : 0.713
+6.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 898x846, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 6.jpg
+Directory                       : .
+File Size                       : 97 kB
+File Modification Date/Time     : 2024:08:18 21:54:20+03:00
+File Access Date/Time           : 2024:11:02 11:21:03+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 898
+Image Height                    : 846
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 898x846
+Megapixels                      : 0.760
+7.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 718x844, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 7.jpg
+Directory                       : .
+File Size                       : 52 kB
+File Modification Date/Time     : 2024:08:18 21:54:26+03:00
+File Access Date/Time           : 2024:11:02 11:21:03+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 718
+Image Height                    : 844
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 718x844
+Megapixels                      : 0.606
+8.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1907x784, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 8.jpg
+Directory                       : .
+File Size                       : 132 kB
+File Modification Date/Time     : 2024:08:18 21:54:32+03:00
+File Access Date/Time           : 2024:11:02 11:21:03+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1907
+Image Height                    : 784
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1907x784
+Megapixels                      : 1.5
+9.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 966x805, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 9.jpg
+Directory                       : .
+File Size                       : 173 kB
+File Modification Date/Time     : 2024:08:18 21:54:46+03:00
+File Access Date/Time           : 2024:11:02 11:21:03+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 966
+Image Height                    : 805
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 966x805
+Megapixels                      : 0.778
+10.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 840x720, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 10.jpg
+Directory                       : .
+File Size                       : 199 kB
+File Modification Date/Time     : 2024:08:18 21:55:06+03:00
+File Access Date/Time           : 2024:11:02 11:21:03+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 840
+Image Height                    : 720
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 840x720
+Megapixels                      : 0.605
+11.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 745x688, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 11.jpg
+Directory                       : .
+File Size                       : 419 kB
+File Modification Date/Time     : 2024:08:18 21:55:12+03:00
+File Access Date/Time           : 2024:11:02 11:21:04+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 745
+Image Height                    : 688
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 745x688
+Megapixels                      : 0.513
+12.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1500x2000, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 12.jpg
+Directory                       : .
+File Size                       : 804 kB
+File Modification Date/Time     : 2024:08:18 21:55:18+03:00
+File Access Date/Time           : 2024:11:02 11:21:04+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1500
+Image Height                    : 2000
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1500x2000
+Megapixels                      : 3.0
+13.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 740x740, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 13.jpg
+Directory                       : .
+File Size                       : 96 kB
+File Modification Date/Time     : 2024:08:18 21:55:22+03:00
+File Access Date/Time           : 2024:11:02 11:21:04+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 740
+Image Height                    : 740
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 740x740
+Megapixels                      : 0.548
+14.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 615x566, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 14.jpg
+Directory                       : .
+File Size                       : 94 kB
+File Modification Date/Time     : 2024:08:18 21:55:32+03:00
+File Access Date/Time           : 2024:11:02 11:21:04+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 615
+Image Height                    : 566
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 615x566
+Megapixels                      : 0.348
+15.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 560x560, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 15.jpg
+Directory                       : .
+File Size                       : 123 kB
+File Modification Date/Time     : 2024:08:18 21:55:36+03:00
+File Access Date/Time           : 2024:11:02 11:21:04+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 560
+Image Height                    : 560
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 560x560
+Megapixels                      : 0.314
+16.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1817x1741, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 16.jpg
+Directory                       : .
+File Size                       : 1001 kB
+File Modification Date/Time     : 2024:08:18 21:55:42+03:00
+File Access Date/Time           : 2024:11:02 11:21:04+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1817
+Image Height                    : 1741
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1817x1741
+Megapixels                      : 3.2
+17.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1080x1078, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 17.jpg
+Directory                       : .
+File Size                       : 245 kB
+File Modification Date/Time     : 2024:08:18 21:55:56+03:00
+File Access Date/Time           : 2024:11:02 11:21:04+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1080
+Image Height                    : 1078
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1080x1078
+Megapixels                      : 1.2
+18.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 555x429, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 18.jpg
+Directory                       : .
+File Size                       : 38 kB
+File Modification Date/Time     : 2024:08:18 21:56:46+03:00
+File Access Date/Time           : 2024:11:02 11:21:04+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 555
+Image Height                    : 429
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 555x429
+Megapixels                      : 0.238
+19.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 811x455, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 19.jpg
+Directory                       : .
+File Size                       : 59 kB
+File Modification Date/Time     : 2024:08:18 21:56:54+03:00
+File Access Date/Time           : 2024:11:02 11:21:04+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 811
+Image Height                    : 455
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 811x455
+Megapixels                      : 0.369
+20.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 850x850, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 20.jpg
+Directory                       : .
+File Size                       : 161 kB
+File Modification Date/Time     : 2024:08:18 21:57:00+03:00
+File Access Date/Time           : 2024:11:02 11:21:04+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Profile CMM Type                : 
+Profile Version                 : 2.4.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 0000:00:00 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Unknown ()
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Media-Relative Colorimetric
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Unknown (Qt..)
+Profile ID                      : 0
+Red Matrix Column               : 0.43602 0.22247 0.01393
+Green Matrix Column             : 0.3851 0.7169 0.09711
+Blue Matrix Column              : 0.14308 0.06062 0.71416
+Media White Point               : 0.95042 1 1.0889
+Profile Copyright               : N/A
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Profile Description             : sRGB
+Image Width                     : 850
+Image Height                    : 850
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 850x850
+Megapixels                      : 0.723
+21.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 640x471, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 21.jpg
+Directory                       : .
+File Size                       : 152 kB
+File Modification Date/Time     : 2024:08:18 21:57:10+03:00
+File Access Date/Time           : 2024:11:02 11:21:04+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 640
+Image Height                    : 471
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x471
+Megapixels                      : 0.301
+22.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1170x1164, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 22.jpg
+Directory                       : .
+File Size                       : 163 kB
+File Modification Date/Time     : 2024:08:18 21:57:16+03:00
+File Access Date/Time           : 2024:11:02 11:21:04+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1170
+Image Height                    : 1164
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1170x1164
+Megapixels                      : 1.4
+23.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1170x1164, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 23.jpg
+Directory                       : .
+File Size                       : 154 kB
+File Modification Date/Time     : 2024:08:18 21:57:24+03:00
+File Access Date/Time           : 2024:11:02 11:21:04+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1170
+Image Height                    : 1164
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1170x1164
+Megapixels                      : 1.4
+24.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 817x1015, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 24.jpg
+Directory                       : .
+File Size                       : 179 kB
+File Modification Date/Time     : 2024:08:18 21:57:34+03:00
+File Access Date/Time           : 2024:11:02 11:21:04+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 817
+Image Height                    : 1015
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 817x1015
+Megapixels                      : 0.829
+25.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 849x1023, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 25.jpg
+Directory                       : .
+File Size                       : 161 kB
+File Modification Date/Time     : 2024:08:18 21:57:44+03:00
+File Access Date/Time           : 2024:11:02 11:21:33+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 849
+Image Height                    : 1023
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 849x1023
+Megapixels                      : 0.869
+26.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 672x500, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 26.jpg
+Directory                       : .
+File Size                       : 105 kB
+File Modification Date/Time     : 2024:08:18 21:57:48+03:00
+File Access Date/Time           : 2024:11:02 11:21:33+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 672
+Image Height                    : 500
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 672x500
+Megapixels                      : 0.336
+27.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1280x1094, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 27.jpg
+Directory                       : .
+File Size                       : 160 kB
+File Modification Date/Time     : 2024:08:18 21:58:02+03:00
+File Access Date/Time           : 2024:11:02 11:21:33+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1280
+Image Height                    : 1094
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1280x1094
+Megapixels                      : 1.4
+28.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1080x1770, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 28.jpg
+Directory                       : .
+File Size                       : 301 kB
+File Modification Date/Time     : 2024:08:18 21:58:08+03:00
+File Access Date/Time           : 2024:11:02 11:21:33+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1080
+Image Height                    : 1770
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1080x1770
+Megapixels                      : 1.9
+29.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 905x1280, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 29.jpg
+Directory                       : .
+File Size                       : 261 kB
+File Modification Date/Time     : 2024:08:18 21:58:12+03:00
+File Access Date/Time           : 2024:11:02 11:21:33+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 905
+Image Height                    : 1280
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 905x1280
+Megapixels                      : 1.2
+30.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 2560x1440, components 3
+ExifTool Version Number         : 12.76
+File Name                       : 30.jpg
+Directory                       : .
+File Size                       : 1133 kB
+File Modification Date/Time     : 2024:08:18 21:58:18+03:00
+File Access Date/Time           : 2024:11:02 11:21:33+03:00
+File Inode Change Date/Time     : 2024:11:02 11:20:51+03:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 2560
+Image Height                    : 1440
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 2560x1440
+Megapixels                      : 3.7

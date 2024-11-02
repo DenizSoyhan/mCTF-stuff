@@ -1,0 +1,106 @@
+/lib64/ld-linux-x86-64.so.2
+mgUa
+__cxa_finalize
+fgets
+strcspn
+__libc_start_main
+setvbuf
+stdout
+puts
+strlen
+getenv
+sprintf
+stdin
+__isoc99_scanf
+strcat
+libc.so.6
+GLIBC_2.7
+GLIBC_2.34
+GLIBC_2.2.5
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_ITM_registerTMCloneTable
+PTE1
+u+UH
+Hell
+I think H
+you are H
+ years oH
+[+-+-+ Age guesser +-+-+]
+Enter your first name: 
+Enter your last name: 
+Enter your age: 
+%11d
+I hope you liked my program!
+FLAG
+;*3$"
+GCC: (Debian 13.2.0-13) 13.2.0
+Scrt1.o
+__abi_tag
+crtstuff.c
+deregister_tm_clones
+__do_global_dtors_aux
+completed.0
+__do_global_dtors_aux_fini_array_entry
+frame_dummy
+__frame_dummy_init_array_entry
+main.c
+__FRAME_END__
+_DYNAMIC
+__GNU_EH_FRAME_HDR
+_GLOBAL_OFFSET_TABLE_
+getenv@GLIBC_2.2.5
+__libc_start_main@GLIBC_2.34
+_ITM_deregisterTMCloneTable
+stdout@GLIBC_2.2.5
+puts@GLIBC_2.2.5
+stdin@GLIBC_2.2.5
+_edata
+_fini
+strlen@GLIBC_2.2.5
+strcspn@GLIBC_2.2.5
+fgets@GLIBC_2.2.5
+__data_start
+__gmon_start__
+__dso_handle
+_IO_stdin_used
+_end
+__bss_start
+main
+setvbuf@GLIBC_2.2.5
+__isoc99_scanf@GLIBC_2.7
+strcat@GLIBC_2.2.5
+sprintf@GLIBC_2.2.5
+__TMC_END__
+_ITM_registerTMCloneTable
+__cxa_finalize@GLIBC_2.2.5
+_init
+setup
+.symtab
+.strtab
+.shstrtab
+.interp
+.note.gnu.property
+.note.gnu.build-id
+.note.ABI-tag
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.dynamic
+.got.plt
+.data
+.bss
+.comment

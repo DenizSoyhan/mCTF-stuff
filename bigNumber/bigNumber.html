@@ -1,0 +1,77 @@
+<canvas id="myCanvas" width="106" height="17" style="display:block;"></canvas>
+<img id="sourceImage" src="input.png" style="display:blokc;" />
+
+<script>
+const canvas = document.getElementById('myCanvas');
+const ctx = canvas.getContext('2d');
+const img = document.getElementById('sourceImage');
+var res=0;
+var horRes=0;
+var horRes2=0;
+var binaryRes=0;
+img.onload = function() {
+
+    ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+
+    const rows = 17;
+    const cols = 106;
+    const cellWidth = canvas.width / cols;
+    const cellHeight = canvas.height / rows;
+    const binaryRows = [];
+
+    for (let row = 0; row < rows; row++) {
+        let binaryString = '';
+
+        for (let col = 0; col < cols; col++) {
+            const x = col * cellWidth;
+            const y = row * cellHeight;
+            const cellData = ctx.getImageData(x, y, cellWidth, cellHeight).data;
+
+
+            let totalBrightness = 0;
+            let pixelCount = 0;
+            for (let i = 0; i < cellData.length; i += 4) {
+                const r = cellData[i];
+                const g = cellData[i + 1];
+                const b = cellData[i + 2];
+                const brightness = (r + g + b) / 3; // Average brightness
+                totalBrightness += brightness;
+                pixelCount++;
+            }
+            const avgBrightness = totalBrightness / pixelCount;
+
+
+            binaryString += avgBrightness > 127 ? '1' : '0'; 
+        }
+
+        binaryRows.push(binaryString); // Add the row's binary string to the array
+    }
+
+
+    console.log(binaryRows); // Each row is a binary string
+
+   
+    console.log("res: ",res);
+var horNum=[];
+for(var g=0;g<106;g++){
+    horNum[g]=0;
+}
+    //console.log(binaryRows[0])
+
+    console.log(parseInt(binaryRows[5],2))
+for(var c=0;c<binaryRows.length;c++){
+    //console.log(binaryRows[c]," c: ",c," binary: ", );
+    var aRow=binaryRows[c]
+    console.log(binaryRows[c]," c: ",c," binary: ", parseInt(aRow,2));
+    binaryRes=binaryRes+binaryRows[c];
+    horRes=horRes+parseInt(aRow,2);
+    console.log(horRes);
+
+}
+
+}    
+
+console.log(horRes);
+
+
+</script>

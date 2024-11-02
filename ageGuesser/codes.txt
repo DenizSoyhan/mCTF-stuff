@@ -1,0 +1,3 @@
+break *0x55555555523c
+print *(int *)($rbp - 0x4)  # Display the value 
+set *(int *)($rbp - 0x4) = 0
